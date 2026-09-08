@@ -18,14 +18,14 @@
         "Allowoffline": false
     },
 {
-        "device_id": "051e00f7e1993ff1",
-        "key": "amirbokonet",
+        "device_id": "a60d112bca9746bd",
+        "key": "MR",
         "expirydate": "7-10-2027",
-        "Allowoffline": true
+        "Allowoffline": false
     },
  {   
-        "device_id": "6123d938580abd7b",
-        "key": "MR96",
+        "device_id": "d5ca6b15936d031c",
+        "key": "MR",
         "expirydate": "7-10-2026",
         "Allowoffline": false
     },
