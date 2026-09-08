@@ -1,4 +1,4 @@
-و9[
+[
     {
         "device_id": "4368f140497c07ea",
         "key": "MR",
@@ -6,9 +6,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "d5ca6b15936d031c",
-        "key": "MR",
-        "expirydate": "18-08-2026",
+        "device_id": "a60d112bca9746bd",
+        "key": "hadi1390",
+        "expirydate": "18-08-2027",
         "Allowoffline": false
     },
 {
@@ -19,7 +19,7 @@
     },
 {
         "device_id": "a60d112bca9746bd",
-        "key": "MR",
+        "key": "hadi1390",
         "expirydate": "7-10-2027",
         "Allowoffline": true
     },
