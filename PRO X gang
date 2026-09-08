@@ -1,7 +1,7 @@
 [
     {
-        "device_id": "a8cc52027e664db0",
-        "key": "LEVIFF",
+        "device_id": "device123",
+        "key": "key12345",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
@@ -9,6 +9,24 @@
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+{
+        "device_id": "051e00f7e1993ff1",
+        "key": "WOLF",
+        "expirydate": "15-06-2030",
+        "Allowoffline": false
+    },
+{
+        "device_id": "051e00f7e1993ff1",
+        "key": "amirbokonet",
+        "expirydate": "7-10-2027",
         "Allowoffline": true
-    }
+    },
+ {   
+        "device_id": "6123d938580abd7b",
+        "key": "MR96",
+        "expirydate": "7-10-2026",
+        "Allowoffline": false
+    },
 ]
