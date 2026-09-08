@@ -26,7 +26,7 @@
  {   
         "device_id": "d5ca6b15936d031c",
         "key": "MR",
-        "expirydate": "7-10-2026",
-        "Allowoffline": false
+        "expirydate": "7-10-2027",
+        "Allowoffline": true 
     },
 ]
