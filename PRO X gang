@@ -10,13 +10,13 @@
         "device_id": "a60d112bca9746bd",
         "key": "hadi1390",
         "expirydate": "18-08-2027",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 {
         "device_id": "01f3acc994a3c7bd",
         "key": "MR",
         "expirydate": "15-06-2030",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 {
         "device_id": "a60d112bca9746bd",
